@@ -1,5 +1,4 @@
-# Project Fletcher
-## Time After Time - Justin Chien
+# Time After Time - Justin Chien
 
 This project attempted to use natural language processing to place music into a decade it would most likely be popular in based solely off of the lyrics.
 
